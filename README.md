@@ -1,5 +1,7 @@
 # 🧮 Two Sum — LeetCode Problem Solution
 
+Link: https://leetcode.com/problems/two-sum/submissions/1717774901/
+
 ## 🚀 Overview
 This repository contains a clean and optimized solution to the classic [LeetCode "Two Sum"](https://leetcode.com/problems/two-sum) problem. Given a list of integers and a target sum, the goal is to identify two distinct indices whose values sum up to the target.
 
